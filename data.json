@@ -1,0 +1,173 @@
+{
+    
+    
+
+    "work":{
+        "sweet_childhood": {
+            "artist": "SWEET CHILDHOOD",
+            "image": "image/sweet_childhood.jpg",
+            "color": "#A03A66"
+        },
+        "school":{
+            "artist": "SCHOOL",
+            "image": "image/shockol.jpg",
+            "color": "#A797C8"
+        },
+        "nymphet":{
+            "artist": "nymphet",
+            "image": "image/nymphet.jpg",
+            "color": "#8D3D5F"
+        },
+        "company":{
+            "artist": "Doubtful Company",
+            "image": "image/DoubtfulCompany.jpg",
+            "color": "#8D93BC"
+        },
+        "future":{
+            "artist": "future",
+            "image": "image/Growing_uncertainty_about_future.jpg",
+            "color": "#1B2C9B"
+        },
+        "Idyll/serenity":{
+            "artist": "serenity",
+            "image": "image/Idyll .jpg",
+            "color": "#A03A66"
+        },
+        "drowning_out_feelings.":{
+            "artist": "drowning out feelings.",
+            "image": "image/drowning_out_feelings.jpg",
+            "color": "#85BEA9"
+        },
+        "Musorskaya_bespredel":{
+            "artist": " Musorskaya bespredel",
+            "image": "image/ Musorskaya_bespredel.jpg",
+            "color": "#51392C"
+        },
+        "500summer":{
+            "artist": "500 days summer",
+            "image": "image/500dayssummer.jpg",
+            "color": "#999999"
+        },
+        "sex_city":{
+            "artist": "sex in the city",
+            "image": "image/sex_in_z_sity.jpg",
+            "color": "#90B7D8"
+        },
+        " Experiments_with_orientation.":{
+            "artist": " Experiments with orientation",
+            "image": "image/Experiments_with_orientation.jpg",
+            "color": "#8D93BC"
+        },
+      
+        
+        "spirituality":{
+            "artist": "spirituality",
+            "image": "image/spirituality.jpg",
+            "color": "#A58968"
+        },
+        "best_freand.":{
+            "artist": "best friend",
+            "image": "image/best_freand.jpg",
+            "color": "#39235D"
+        },
+        "RadicalFeminism.":{
+            "artist": "Radical Feminism",
+            "image": "image/femenizn.jpg",
+            "color": "#85BEA9"
+        },
+       
+        "destructive":{
+            "artist": "destructive",
+            "image": "image/destructive.jpg",
+            "color": "#A03A66"
+        },
+        "Idyllia":{
+            "artist": "Gedonisiticheskiy bespridel",
+            "image": "image/Idyllia.jpg",
+            "color": "#1B2C9B"
+        },
+        "black_swen":{
+            "artist": "black swen",
+            "image": "image/black_swen.jpg",
+            "color": "#A03A66"
+        },
+        "Angel_kiss":{
+            "artist": "Angel's kiss",
+            "image": "image/ -34.jpg",
+            "color": "#A58968"
+        },
+        "14_old":{
+            "artist": "14 years old",
+            "image": "image/14old.jpg",
+            "color": "#A797C8"
+        },
+        "Pink_hair":{
+            "artist": "Pink hair",
+            "image": "image/pink_hair.jpg",
+            "color": "#1B2C9B"
+        },
+        "Birthday":{
+            "artist": "Birthday",
+            "image": "image/dr.jpg",
+            "color": "#999999"
+        },
+        "monastery":{
+            "artist": "monastery",
+            "image": "image/monastri.jpg",
+            "color": "#A58968"
+        },
+        "first_love":{
+            "artist": "first love",
+            "image": "image/first_love.jpg",
+            "color": "#85BEA9"
+        },
+        "celibate":{
+            "artist": " celibate",
+            "image": "image/ celibate2.jpg",
+            "color": "#85BEA9"
+        },
+        "role_model":{
+            "artist": "role model",
+            "image": "image/role_model.jpg",
+            "color": "#A797C8"
+        },
+        "smart_girls":{
+            "artist": "u smart others  girls",
+            "image": "image/smarterthayour peers.jpg",
+            "color": "#999999"
+        },
+        "deprivation ":{
+            "artist": "sleep deprivation ",
+            "image": "image/sleep_deprivation .jpg",
+            "color": "#1B2C9B"
+        },
+        "narcissism ":{
+            "artist": "narcissism ",
+            "image": "image/narcissism .jpg",
+            "color": "#85BEA9"
+        },
+        "homegirl":{
+            "artist": "homegirl",
+            "image": "image/hm.jpg",
+            "color": "#8D93BC"
+        },
+        "sozertsaniye":{
+            "artist": "sozertsaniye",
+            "image": "image/sozertsaniye.jpg",
+            "color": "#51392C"
+        },
+        "escopizm":{
+            "artist": "ecopizm",
+            "image": "image/escaoizm.jpg",
+            "color": "#A03A66"
+        },
+        "Gedonisiticheskiy bespridel":{
+            "artist": "Gedonisiticheskiy bespridel",
+            "image": "image/ -32.jpg",
+            "color": "#A58968"
+        }
+        
+    }
+
+    
+}
