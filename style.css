@@ -43,7 +43,33 @@ body {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 200;
 }
+.crawl-container {
+  perspective: 800px;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  background: black;
+  color: yellow;
+  font-family: 'Arial', sans-serif;
+}
 
+.crawl {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  transform-origin: 50% 100%;
+  animation: crawl 80s linear forwards;
+}
+
+@keyframes crawl {
+  0% {
+    transform: rotateX(20deg) translateZ(0);
+  }
+  100% {
+    top: -300%;
+    transform: rotateX(25deg) translateZ(-400px);
+  }
+}
 #contentContainer{
     position: relative;
     width: 100%;
